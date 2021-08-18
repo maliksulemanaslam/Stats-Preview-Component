@@ -100,7 +100,8 @@ span {
   }
 
   .row {
-    padding-right: 14%;
+    padding-right: 10%;
+    padding-left: 10%;
   }
 
   .attribution {
@@ -123,6 +124,19 @@ span {
 }
 
 @media (max-width:575px) {
+  body{
+    padding: 25% 4% 10%;
+  }
+  .row {
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+  .main-heading{
+    margin: 8% 5% 10%;
+  }
+  .main-paragraph{
+    margin: 10% 5%;
+  }
   .card-img-top {
     border-top-left-radius: .45rem;
     border-top-right-radius: .45rem;
