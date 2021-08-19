@@ -103,6 +103,7 @@ picture {
 .stats-heading {
   color: hsla(0, 0%, 100%, 0.6);
   font-size: 10px;
+  text-transform: uppercase;
 }
 
 .attribution {
